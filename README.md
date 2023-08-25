@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gor and I'm a Python Developer, from Armenia</p>
+<p align="left">My name is Gor and I'm a Mobile | Backend Developer, from Armenia</p>
 
 ###
 
