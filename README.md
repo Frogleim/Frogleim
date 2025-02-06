@@ -1,17 +1,20 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<p align="left">My name is Gor and I'm a Mobile | Backend Developer, from Armenia</p>
-
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Tensorflow<br>
+Hi there! I'm a passionate **developer, researcher, and entrepreneur** exploring the intersection of **decentralized systems, AI, and algorithmic trading**. My projects range from **decentralized cloud storage** to **AI-powered trading strategies**, and I love pushing the boundaries of what's possible with **Python, C++, and machine learning**.
 
+###
+
+## 🛠️ Tech Stack:
+- **Languages:** Python, C++, JavaScript, Solidity  
+- **Frameworks & Tools:** Django, OpenCV, TensorFlow, PyTorch  
+- **Cloud & DevOps:** Docker, AWS, VPS monitoring  
+- **Blockchain & Crypto:** Smart contracts
 ###
 
 <h2 align="left">I code with</h2>
